@@ -2,8 +2,11 @@
 "use strict";
 
 import { urlEncode } from "./utils/urlEncode.js";
+import { apiKey } from "./apiKey.js";
 
-const API_KEY = "FN9skmpeTxgUnIUUrhNRcrZFFzgV8EONFND8NhWJ8lISB4C5VziCCcvb";
+
+// Made your api Key from pexels and paste it here in the place of (const API_KEY = "here";)
+const API_KEY = apiKey;
 
 // Function...
 const headers = new Headers();
