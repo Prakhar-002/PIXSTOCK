@@ -353,6 +353,8 @@ button:disabled {
   font-size: var(--fs-title-large);
   font-weight: var(--weight-regular);
   line-height: 28px;
+  font-family: Alegreya; /*! Font change */
+  letter-spacing: 0.4px;
 }
 
 .title-medium {
