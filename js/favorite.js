@@ -1,3 +1,8 @@
+/*
+      ! https://github.com/Prakhar-002
+      ? © prakhar.katiyar.002@gmail.com
+*/ 
+
 "use strict";
 
 import { client } from "./api_configure.js";

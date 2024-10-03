@@ -1,5 +1,9 @@
-"use strict";
+/*
+      ! https://github.com/Prakhar-002
+      ? © prakhar.katiyar.002@gmail.com
+*/ 
 
+"use strict";
 
 import { client } from "../../js/api_configure.js";
 import { gridInit, updateGrid } from "../../js/utils/masonry_grid.js";
