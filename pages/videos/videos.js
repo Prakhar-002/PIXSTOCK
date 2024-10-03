@@ -53,11 +53,16 @@ const renderVideos = function (currentPage) {
 
       client.videos[searchObj ?"search" : "popular"]({ ...searchObj, per_page: perPage, page: currentPage }, (data) => {
 
-            totalPage =Math.ceil(data.total_results  / perPage);
+            totalPage = Math.ceil(data.total_results  / perPage);
 
             data.videos.forEach(video => {
 
                   const videoCard = videoCardMaker(video);
+
+                  if (!videoCard) {
+                        // when no more video found , hide loader...
+                        loader.style.display = "none";
+                  }
 
                   updateGrid(videoCard, videoGridObj.columnsHeight, videoGridObj.columns);
 

@@ -21,8 +21,13 @@ export const videoCardMaker = (video) => {
 
 
       const sdVideo = video_files.find((item) => item.quality === "sd"  && item.width < 1000);
+      
+      if (!sdVideo) {
+            return null;
+      }
 
       const { file_type, link } = sdVideo;
+
 
       const /* VCard */ card = document.createElement("div");
       card.classList.add("card", "grid-item", "video");
@@ -74,7 +79,5 @@ export const videoCardMaker = (video) => {
       hoverOnPlay(card);
 
       return card;
-
-
 
 }

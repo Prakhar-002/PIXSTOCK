@@ -113,7 +113,7 @@ client.photos.detail(photoId, (data) => {
                   });
             } else {
                   loader.style.display = "none";
-                  photoGrid.innerHTML = "<p>No similar photo found.</p>"
+                  photoGrid.innerHTML = `<p class="no-similar">No similar photo found.</p>`
             }
 
       });
