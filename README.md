@@ -117,7 +117,9 @@ Follow these steps to deploy the **PIXSTOCK** app after forking the repository:
 
 Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for mastering the `MERN (MongoDB, Express.js, React.js, Node.js)` stack 🎯  and diving deep into `Data Structures and Algorithms (DSA)` 🧑🏻‍💻
 
-### Gallery 🏞️
+<br/>
+
+## Gallery 🏞️
 
 ![image](https://github.com/user-attachments/assets/712c8cb3-0d6a-4f86-af51-eaad2a722aea)
 ![image](https://github.com/user-attachments/assets/7547fa7f-044a-486c-b3d4-e5ce50f93593)
