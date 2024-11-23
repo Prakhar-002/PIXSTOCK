@@ -131,8 +131,8 @@ Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for ma
 ![image](https://github.com/user-attachments/assets/8a6dc593-6fda-4363-8661-6fe7c9aafeba)
 ![image](https://github.com/user-attachments/assets/029c88e2-45e8-466e-bf51-b47086efb1c0)
 ![image](https://github.com/user-attachments/assets/5b09d8a6-e2a2-42b5-9917-7c66ee9c9f00)
-![image](https://github.com/user-attachments/assets/f04991fd-cf71-428f-837d-0d58ad09b43c)
 ![image](https://github.com/user-attachments/assets/72f185af-4415-4195-99f6-2ae6e80114a3)
 ![image](https://github.com/user-attachments/assets/f8087732-1b86-49d2-92e6-8174d5b8d6ec)
 ![image](https://github.com/user-attachments/assets/3e990268-fd52-4a5f-9989-7de7968b0bd8)
+![image](https://github.com/user-attachments/assets/f04991fd-cf71-428f-837d-0d58ad09b43c)
 
