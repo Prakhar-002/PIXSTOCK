@@ -16,9 +16,7 @@
 
 # Screenshots 🏝️🍹
 
-![image](https://github.com/user-attachments/assets/1e0a84d0-d2b1-4458-b146-14243d978e74)
-![image](https://github.com/user-attachments/assets/9b32b076-4758-43f7-bb5e-cd321cbf3241)
-![image](https://github.com/user-attachments/assets/91e14ade-bf61-4a47-88fe-30db47a29212)
+![pixstock](https://github.com/user-attachments/assets/dc8e8ce5-1c5a-4287-aca6-85c87512585c)
 
 <br/>
 
