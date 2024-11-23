@@ -51,7 +51,7 @@
 
 <br/>
 
-## ✨ Advanced Features  
+## Advanced Features ✨
 
 1. **Save to Favorites** ❤️  
    - Users can save `their favorite photos` in `favorite section` for easy access.  
@@ -115,18 +115,17 @@ Follow these steps to deploy the **PIXSTOCK** app after forking the repository:
 
 - Sign up for an `API key` and ID at pixels api
 
-* Go to api.js and set `APP_ID = "your api"`
-
+- Go to api.js and set `APP_ID = "your api"`
 
 <br/>
 
-## 🚀 About Me
+## About Me 🧋🧸
 
 Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for mastering the `MERN (MongoDB, Express.js, React.js, Node.js)` stack 🎯  and diving deep into `Data Structures and Algorithms (DSA)` 🧑🏻‍💻
 
 <br/>
 
-## Gallery 🏞️
+## Picture Library 📷📖
 
 ![image](https://github.com/user-attachments/assets/712c8cb3-0d6a-4f86-af51-eaad2a722aea)
 ![image](https://github.com/user-attachments/assets/7547fa7f-044a-486c-b3d4-e5ce50f93593)
