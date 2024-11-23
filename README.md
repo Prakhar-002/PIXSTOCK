@@ -7,7 +7,7 @@
 
 <h1 align="center"> 
 
-<a target="_blank" href="https://pixstock-pictures.netlify.app/"><strong> ➥ Experience Pixstock 📸
+<a href="https://pixstock-pictures.netlify.app/"><strong> ➥ Experience Pixstock 📸
 </strong></a>
 </h1>
 
@@ -111,6 +111,13 @@ Follow these steps to deploy the **PIXSTOCK** app after forking the repository:
 
 - Run with live server extension on `VS CODE`.
 
+### To use you will need an API key.
+
+- Sign up for an `API key` and ID at pixels api
+
+* Go to api.js and set `APP_ID = "your api"`
+
+
 <br/>
 
 ## 🚀 About Me
@@ -128,3 +135,7 @@ Meet `Prakhar Katiyar` 🙋🏻‍♂️ , An avid learner with a passion for ma
 ![image](https://github.com/user-attachments/assets/029c88e2-45e8-466e-bf51-b47086efb1c0)
 ![image](https://github.com/user-attachments/assets/5b09d8a6-e2a2-42b5-9917-7c66ee9c9f00)
 ![image](https://github.com/user-attachments/assets/f04991fd-cf71-428f-837d-0d58ad09b43c)
+![image](https://github.com/user-attachments/assets/72f185af-4415-4195-99f6-2ae6e80114a3)
+![image](https://github.com/user-attachments/assets/f8087732-1b86-49d2-92e6-8174d5b8d6ec)
+![image](https://github.com/user-attachments/assets/3e990268-fd52-4a5f-9989-7de7968b0bd8)
+
