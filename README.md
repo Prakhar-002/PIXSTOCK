@@ -16,7 +16,7 @@
 
 # Screenshots 🏝️🍹
 
-![pixstock](https://github.com/user-attachments/assets/dc8e8ce5-1c5a-4287-aca6-85c87512585c)
+![pixstock](https://github.com/user-attachments/assets/0dd2a257-3855-4347-a7a2-0f85370bb431)
 
 <br/>
 
